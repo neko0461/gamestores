@@ -1,0 +1,7 @@
+C:\Users\rapha\Downloads\GameStore.Api\obj\Debug\net8.0\GameStore.Api.csproj.AssemblyReference.cache
+C:\Users\rapha\Downloads\GameStore.Api\obj\Debug\net8.0\GameStore.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Downloads\GameStore.Api\obj\Debug\net8.0\GameStore.Api.AssemblyInfoInputs.cache
+C:\Users\rapha\Downloads\GameStore.Api\obj\Debug\net8.0\GameStore.Api.AssemblyInfo.cs
+C:\Users\rapha\Downloads\GameStore.Api\obj\Debug\net8.0\GameStore.Api.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Downloads\GameStore.Api\obj\Debug\net8.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rapha\Downloads\GameStore.Api\obj\Debug\net8.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cache
